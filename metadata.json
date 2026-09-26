@@ -1,0 +1,12 @@
+{
+  "name": "KiranaSetu - Local Shop Billing, Inventory & Marketplace",
+  "description": "Hyperlocal Kirana billing and neighborhood marketplace with Smart POS, Multilingual Audio Soundbox, Handwritten Parchi OCR Scanner, Loose Produce Scale Calculator, 1-Click WhatsApp Udhar Reminders with UPI links, Daily P&L and GST settlements, Morning Essentials Subscriptions, and Neighborhood Loyalty Punch Cards.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
